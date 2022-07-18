@@ -1,0 +1,3 @@
+python-pygments source: no-debian-changes
+python-pygments source: source-contains-prebuilt-windows-binary
+python-pygments source: source-package-encodes-python-version
