@@ -1,0 +1,4 @@
+python3-pygments: copyright-without-copyright-notice
+python3-pygments: initial-upload-closes-no-bugs
+python3-pygments: no-manual-page
+python3-pygments: zero-byte-file-in-doc-directory
