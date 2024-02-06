@@ -18,3 +18,4 @@
 venv/
 .venv/
 .DS_Store
+.pybuild/
